@@ -7,7 +7,7 @@
 
 	<groupId>com.xdev-software</groupId>
 	<artifactId>vaadin-date-range-picker-demo</artifactId>
-	<version>2.1.4-SNAPSHOT</version>
+	<version>gamma4_2304dev_bubblet</version>
 	<packaging>war</packaging>
 
 	<name>Vaadin DateRangePicker Demo</name>
@@ -28,19 +28,16 @@
 
 	<properties>
 		<license.licenseName>apache_v2</license.licenseName>
-
-		<javaVersion>1.8</javaVersion>
-		<maven.compiler.source>${javaVersion}</maven.compiler.source>
-		<maven.compiler.target>${javaVersion}</maven.compiler.target>
 		<!-- Used for Java 11 -->
 		<!--<maven.compiler.release>${javaVersion}</maven.compiler.release> -->
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
-
 		<!-- Dependency-Versions -->
-		<vaadin.version>14.8.6</vaadin.version>
+		<vaadin.version>23.0.4</vaadin.version>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
 	</properties>
 
 
