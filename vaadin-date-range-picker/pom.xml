@@ -9,7 +9,7 @@
 	<artifactId>vaadin-date-range-picker</artifactId>
 
 	<packaging>jar</packaging>
-	<version>gamma4_2304dev_bubblet</version>
+	<version>jamun_24</version>
 
 	<name>DateRangePicker for Vaadin</name>
 	<description>DateRangePicker for Vaadin</description>
